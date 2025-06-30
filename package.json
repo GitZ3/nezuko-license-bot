@@ -1,0 +1,13 @@
+{
+  "name": "nezuko-license-bot",
+  "version": "1.0.0",
+  "main": "gitz.js",
+  "scripts": {
+    "start": "node gitz.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.3.1",
+    "telegraf": "^4.16.0"
+  }
+}
